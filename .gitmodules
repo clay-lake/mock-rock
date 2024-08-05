@@ -1,0 +1,3 @@
+[submodule "external/oci-factory"]
+	path = external/oci-factory
+	url = https://github.com/canonical/oci-factory.git
